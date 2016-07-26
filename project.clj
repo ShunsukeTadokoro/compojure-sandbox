@@ -1,6 +1,6 @@
 (defproject compojure-sandbox "0.1.0-SNAPSHOT"
-  :description "FIXME: write description"
-  :url "http://example.com/FIXME"
+  :description "Sandbox Project for compojure."
+  :url "https://github.com/ShunsukeTadokoro/compojure-sandbox"
   :min-lein-version "2.0.0"
   :dependencies [[org.clojure/clojure "1.8.0"]
                  [compojure "1.5.1"]
